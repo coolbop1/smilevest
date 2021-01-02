@@ -1,0 +1,12 @@
+{
+  "name": "smilevest",
+  "displayName": "smilevest",
+  "expo": {
+    "name": "smilevest",
+    "slug": "smilevest",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
